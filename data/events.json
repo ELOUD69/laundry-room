@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "White Party",
+    "date": "2025-06-06",
+    "day": "Friday",
+    "artist": "Merhi Serhan",
+    "genre": "House / R&B",
+    "image": "/events/event-white-party.svg",
+    "description": "All-white dress code. The most exclusive party of the season — where elegance meets the night.",
+    "bookingUrl": "#vip"
+  },
+  {
+    "id": "2",
+    "title": "Queen's Night",
+    "date": "2025-06-13",
+    "day": "Friday",
+    "artist": "Hossam Jneed",
+    "genre": "Oriental / Commercial",
+    "description": "A night dedicated to the queens. Ladies' night with special packages, premium service, and an atmosphere unlike any other.",
+    "image": "/events/event-queens-night.svg",
+    "bookingUrl": "#vip"
+  },
+  {
+    "id": "3",
+    "title": "Saturday Night",
+    "date": "2025-06-14",
+    "day": "Saturday",
+    "artist": "DJ Ziad Toubia",
+    "genre": "Commercial / Top 40",
+    "description": "The ultimate Saturday experience. Commercial anthems, non-stop energy, and the best crowd in Abu Dhabi.",
+    "image": "/events/event-saturday-night.svg",
+    "bookingUrl": "#vip"
+  },
+  {
+    "id": "4",
+    "title": "White Party Vol. 2",
+    "date": "2025-06-20",
+    "day": "Friday",
+    "artist": "Merhi Serhan",
+    "genre": "Deep House / Afrobeats",
+    "description": "The sequel to the season's most iconic night. Bigger, louder, and whiter than ever before.",
+    "image": "/events/event-white-party-2.svg",
+    "bookingUrl": "#vip"
+  }
+]

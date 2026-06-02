@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Outer ring -->
+  <circle cx="60" cy="60" r="57" fill="#0D0D12" stroke="#C9A84C" stroke-width="1.5"/>
+  <!-- Inner decorative ring (dashed) -->
+  <circle cx="60" cy="60" r="49" fill="none" stroke="#C9A84C" stroke-width="0.6" stroke-dasharray="4 4" opacity="0.5"/>
+  <!-- Top diamond ornament -->
+  <polygon points="60,14 63,19 60,24 57,19" fill="#C9A84C"/>
+  <!-- Bottom diamond ornament -->
+  <polygon points="60,96 63,101 60,106 57,101" fill="#C9A84C"/>
+
+  <!-- KAI lettering -->
+  <text
+    x="60" y="58"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="26"
+    font-weight="bold"
+    fill="#C9A84C"
+    letter-spacing="6"
+  >KAI</text>
+
+  <!-- Separator line -->
+  <line x1="30" y1="67" x2="90" y2="67" stroke="#C9A84C" stroke-width="0.6" opacity="0.6"/>
+
+  <!-- Sub-label -->
+  <text
+    x="60" y="77"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="7"
+    fill="#C9A84C"
+    letter-spacing="4"
+    opacity="0.8"
+  >ABU DHABI</text>
+</svg>
