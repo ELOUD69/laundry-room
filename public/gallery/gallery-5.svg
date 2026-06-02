@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450">
+  <defs>
+    <radialGradient id="g5" cx="50%" cy="40%" r="65%">
+      <stop offset="0%" stop-color="#1c1810"/>
+      <stop offset="100%" stop-color="#050508"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#g5)"/>
+  <ellipse cx="300" cy="200" rx="200" ry="150" fill="#fffff0" opacity="0.03"/>
+  <text x="300" y="215" text-anchor="middle" font-family="Georgia,serif" font-size="14" fill="#C9A84C" letter-spacing="3" opacity="0.5">WHITE PARTY CROWD</text>
+  <text x="300" y="240" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#ffffff" letter-spacing="2" opacity="0.25">Replace with real photo</text>
+</svg>

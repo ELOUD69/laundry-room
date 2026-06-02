@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900">
+  <defs>
+    <radialGradient id="g4" cx="30%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#100d0a"/>
+      <stop offset="100%" stop-color="#050508"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#g4)"/>
+  <ellipse cx="180" cy="400" rx="160" ry="200" fill="#C9A84C" opacity="0.04"/>
+  <text x="300" y="430" text-anchor="middle" font-family="Georgia,serif" font-size="14" fill="#C9A84C" letter-spacing="3" opacity="0.5">COCKTAIL BAR</text>
+  <text x="300" y="460" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#ffffff" letter-spacing="2" opacity="0.25">Replace with real photo</text>
+</svg>

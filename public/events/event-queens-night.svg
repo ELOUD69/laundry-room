@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs>
+    <radialGradient id="bg2" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#1a0a2e"/>
+      <stop offset="100%" stop-color="#050508"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="35%" r="45%">
+      <stop offset="0%" stop-color="#8b2fc9" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#8b2fc9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg2)"/>
+  <rect width="600" height="800" fill="url(#glow2)"/>
+  <!-- Purple spotlights -->
+  <ellipse cx="150" cy="0" rx="100" ry="350" fill="#9b30cf" opacity="0.06"/>
+  <ellipse cx="450" cy="0" rx="100" ry="300" fill="#cf30b0" opacity="0.05"/>
+  <!-- Crown ornament -->
+  <g transform="translate(270,130)" fill="#C9A84C" opacity="0.9">
+    <polygon points="30,0 40,20 60,5 50,30 10,30 0,5 20,20"/>
+    <rect x="5" y="30" width="50" height="6" rx="1"/>
+  </g>
+  <!-- Decorative stars -->
+  <text x="100" y="260" font-family="serif" font-size="14" fill="#C9A84C" opacity="0.4">✦</text>
+  <text x="480" y="240" font-family="serif" font-size="10" fill="#C9A84C" opacity="0.3">✦</text>
+  <text x="520" y="350" font-family="serif" font-size="8" fill="#C9A84C" opacity="0.25">✦</text>
+  <!-- Event text -->
+  <text x="300" y="330" text-anchor="middle" font-family="Georgia,serif" font-size="52" font-weight="bold" fill="#F5F5F0" opacity="0.95" letter-spacing="4">QUEEN'S</text>
+  <text x="300" y="390" text-anchor="middle" font-family="Georgia,serif" font-size="52" font-weight="bold" fill="#F5F5F0" opacity="0.95" letter-spacing="4">NIGHT</text>
+  <line x1="180" y1="415" x2="420" y2="415" stroke="#C9A84C" stroke-width="0.8"/>
+  <text x="300" y="445" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#C9A84C" letter-spacing="4">HOSSAM JNEED</text>
+  <text x="300" y="475" text-anchor="middle" font-family="Georgia,serif" font-size="12" fill="#C9A84C" letter-spacing="3" opacity="0.6">ORIENTAL · COMMERCIAL</text>
+  <!-- Footer -->
+  <line x1="0" y1="760" x2="600" y2="760" stroke="#C9A84C" stroke-width="0.8" opacity="0.3"/>
+  <text x="300" y="720" text-anchor="middle" font-family="Georgia,serif" font-size="13" fill="#C9A84C" letter-spacing="2" opacity="0.7">LADIES NIGHT</text>
+  <text x="300" y="745" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#ffffff" letter-spacing="2" opacity="0.4">FRI · 10 PM – 3 AM</text>
+</svg>
